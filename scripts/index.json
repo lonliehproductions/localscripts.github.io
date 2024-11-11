@@ -197,4 +197,18 @@
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
     }
+        {
+        "name": "Secret Service Panel",
+        "pros": ["Skid's love it!"],
+        "neutral": [],
+        "cons": ["No cons it's the best",
+        "link": "/",
+        "buttonText": "FREE",
+        "types": ["windows"],
+        "lastEditedBy": "Citizen_Erased",
+        "lastEditedByImage": "assets/unverified.png",
+        "warning": false
+    }
+]
+
 ]
