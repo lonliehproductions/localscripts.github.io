@@ -198,3 +198,16 @@
         "warning": true
     }
 ]
+    {
+        "name": "Secret Service Panel",
+        "pros": ["Undetected", "Free, might cost money to use", "100% UNC", "Level 8", "3 users"],
+        "neutral": [],
+        "cons": ["Safety is not verified by voxlis.NET", "Not verified by voxlis.NET"],
+        "link": "/",
+        "buttonText": "FREE",
+        "types": ["windows"],
+        "lastEditedBy": "Voxlis Agency (Joke)",
+        "lastEditedByImage": "assets/verified.png",
+        "warning": true
+    }
+]
